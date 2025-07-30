@@ -8,9 +8,9 @@
 </p>
 
 
-- 🔭 I’m currently working on [System multi agents to generate legal documents](https://github.com/Yasmixe/infinite-scrolling-selenium-)
+- 🔭 I’m currently working on [Quantum Cnn with medical imaging]
 
-- 🌱 I’m currently learning **LLms, RAG, FineTuning, langchain**
+- 🌱 I’m currently learning **Quantum, QCnn, Qiskit, Pennylane, QML**
 
 - 👨‍💻 All of my projects are available at [https://golden-lamington-895c2d.netlify.app/](https://golden-lamington-895c2d.netlify.app/)
 
