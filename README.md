@@ -1,4 +1,3 @@
-![snake animation](https://github.com/Yasmixe/Yasmixe/blob/output/github-contribution-grid-snake2.svg)
 <h1 align="center">Hi 👋, I'm Yasmine</h1>
 <h3 align="center">Data scientist, Ai enthusiast and specialized in Computer Vision.  </h3>
 
@@ -8,11 +7,9 @@
 </p>
 
 
-- 🔭 I’m currently working on [Quantum Cnn with medical imaging]
+- 🔭 I’m currently working on computer vision projects applied to medical imaging
 
-- 🌱 I’m currently learning **Quantum, QCnn, Qiskit, Pennylane, QML**
-
-- 👨‍💻 All of my projects are available at [https://golden-lamington-895c2d.netlify.app/](https://golden-lamington-895c2d.netlify.app/)
+- 👨‍💻You can check my [website](https://hanafiyasmine.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@yasminehanafi](https://medium.com/@yasminehanafi)
 
